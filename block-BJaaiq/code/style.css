@@ -1,0 +1,12 @@
+body {
+  background-color: antiquewhite;
+  font-family: "Comic Neue", cursive;
+}
+blockquote {
+  font-weight: 700;
+  font-size: 54px;
+}
+cite {
+  font-size: 24px;
+  padding-left: 38px;
+}
