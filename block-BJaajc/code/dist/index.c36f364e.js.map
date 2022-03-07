@@ -1,0 +1,1 @@
+{"mappings":"SAAS,GAAG,CAAC,CAAC,EAAE,CAAC,EAAE,CAAC;IAClB,MAAM,CAAC,CAAC,GAAG,CAAC;AACd,CAAC;AAED,MAAM,CAAC,OAAO,GAAG,GAAG","sources":["index.js"],"sourcesContent":["function add(a, b) {\n  return a + b;\n}\n\nmodule.exports = add;\n"],"names":[],"version":3,"file":"index.c36f364e.js.map","sourceRoot":"/__parcel_source_root/"}
